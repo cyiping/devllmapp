@@ -1,4 +1,8 @@
 # 極速ChatGPT開發者兵器指南：跨界整合Prompt Flow 、LangChain 與 Semantic Kernel框架
+
+![image](https://github.com/user-attachments/assets/d889452f-d520-46ff-82bb-a6e757d2dc52)
+
+
 本書銷售點 ： 
 
 天瓏網路書店 ： https://www.tenlong.com.tw/products/9786263338203?list_name=e-generative-ai
